@@ -1,0 +1,19 @@
+{
+  "name": "savi-1311",
+  "version": "1.0.2",
+  "description": "It is an npm package that will tell you more about me!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shambhavi Shandilya",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^5.0.0",
+    "chalk": "^4.1.0",
+    "inquirer": "^8.0.0"
+  },
+  "bin": {
+    "savi-1311": "./index.js"
+  }
+}

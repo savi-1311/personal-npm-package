@@ -1,0 +1,64 @@
+{
+  "📘 Education": [
+    "Student at ABV-Indian Institute of Information Technology and Management, Gwalior - CGPA: 8.01",
+    "Senior Secondary School from Central Academy, Kota - Percentage: 93.8%",
+    "Secondary School from Carmel School, Bokaro, Jharkhand- Percentage: 94.8%"
+  ],
+  "🔧 Skills": [
+    "Languages- C, C++, Javascript, HTML/CSS, SQL, Rails",
+    "Framework- Node.js, Express.js, React.js, Rails, Jest, RSpecs",
+    "Databases- MySQL, MongoDB",
+    "Tools- Markdown, Git, Latex, Linux, AWS SDK"
+  ],
+  "💻 Projects": [
+    "📎 Saathi- Empowering Women",
+    "Tech Stack: MongoDB, Express.js, Node.js, React.js",
+    "• Designed a website to give rural women a platform to have one-to-one interaction with the buyer.",
+    "• Users can add product and impart services.",
+    "• All the transactions took place through email, thus removing unwanted interference by others.",
+    " ",
+    "📎 Fapino- A Food Trap",
+    "Tech Stack: MySQL, Express.js, Node.js, EJS Templating",
+    "• Developed a full-stack, responsive, e-commerce application to order and rate food using Node.js and HTML/CSS.",
+    "• Designed the transac on cycle of adding menu items and rating of dishes by creating appropriate routes.",
+    "• Implemented user authentication using sessions.js and MySQL database",
+    " ",
+    "📎 Rate It",
+    "Tech Stack: MongoDB, Express.js, Node.js, React.js",
+    "• Built a web application to display trending movies using the TMDB API.",
+    "• Users can nominate upto 5 movies and the Leaderboard is displayed according to the votes.",
+    "• Stored the nomina ons on cloud based database, MongoDB Atlas for remote access.",
+    " ",
+    "📎 Clickify - All in one Chrome Extension",
+    "Tech Stack: HTML, CSS, JavaScript",
+    "• Built a Chrome Extension that can help to reduce memory usage by 95%",
+    "• Users can create transcripts of Google meet, take notes, take screenshots and close unwanted tabs",
+    " "
+  ],
+  "📍 Experience": [
+    "Cloud Solutions Engineer Internship- PingSafe",
+    "Software Engineer Internship- Neolama",
+    "Technical Content Writer Internship- Dolphinchat",
+    "Interviewer and Content Writer Internship- Filmyloop",
+    "Content Writer Internshio- Intellify"
+  ],
+  "🏅 Achievements": [
+    "Google CodeJam I/O 2021- Global Rank 814 among 4500+ participants",
+    "Lunchtime Codechef November 2020- Global Rank 89 and female rank 11 among 4500+ participants",
+    "Google Kick Start- Rank 1206 among 6000+ participants",
+    "SheCanSTEM Hackathon 2021- Rank 1",
+    "Diamond Hacks 2021- Rank 1"
+  ],
+  "🎯 Position of Responsibility": [
+    "Organized C++ workshops for 1st year students teaching almost 200 students.",
+    "Problem Setter for Junior Coding Contest at IIIT Gwalior.",
+    "Head of Reporting department at Uthaan-Journalism club of IIIT Gwalior",
+    "Member of Event Management Team at Rotaract Club of IIIT Gwalior.",
+    "Member of communities Women Who Code Delhi and Codess.Cafe."
+  ],
+  "📞 Contact": [
+    "Email- shambhavishandilya01@gmail.com",
+    "LinkedIn- https://www.linkedin.com/in/savi1311",
+    "Github- https://www.github.com/savi-1311"
+  ]
+}
