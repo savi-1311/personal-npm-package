@@ -1,6 +1,6 @@
 {
   "name": "savi-1311",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "It is an npm package that will tell you more about me!",
   "main": "index.js",
   "scripts": {
